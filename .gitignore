@@ -1,0 +1,6 @@
+# build output
+hello/client
+hello/server
+messaging/client
+messaging/server
+*.o
